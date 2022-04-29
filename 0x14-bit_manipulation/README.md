@@ -1,0 +1,6 @@
+#Learning Objectives
+At the end of this project, I learned the following:
+
+#General
+- Look for the right source of information without too much help
+- How to manipulate bits and use bitwise operators
